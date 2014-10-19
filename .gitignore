@@ -6,3 +6,4 @@ mysiteLL/conf/local/*.py
 dev.db
 mysiteLL.egg-info
 ./idea
+.elasticbeanstalk/
